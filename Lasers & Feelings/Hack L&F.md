@@ -28,9 +28,23 @@ Après, ça serait l'idée de base comme ça, mais il faudra que je creuse encor
 
 ***
 
+## Cultistes & Catastrophes
+
+Vous avez adéherer a ce culte en pensant que c'etait un club de quartier tout à fait correcte, vous avez passez de bons moments à profiter du buffet et des cocktail lors des différentes cérémonies aux quelles vous avez été conviés.
+Mais voila ce culte tente bel et bien de faire venir leur divinité qui bave et qui glougloute sur terre afin d'asservir l'humanité. Et autant dire que ça gâche un peu vos plans jardinage du weekend prochain.
+Vous tentez de faire au mieux ce qu'on vous demande mais cela requiert en général une bonne dose de savoirs occultes, et vous avez fait l'impasse sur la plupart des cours...
+Essayez de remplir vos objectifs sans déclencher trop de catastrophe !
+
+**Avertissement de contenu** : cultes et sectes, mort, absurde, comédie, humoir noir.
+
+## Jouer créer vos cultistes
+
+1. Choisissez un trait de caractère : lâche, timide, goinfre, pédant, commère, pingre, envieux.
+2. Choisissez une profession : Comptable, Jardinier, Gardien d'immeuble, 
+
 ## Lancer les dés
 
-**Catastrophe** commence à 0 et **Cultiste** à 6.
+**Catastrophe** commence à 0 et **Cultiste** à 6. Ces deux valeurs sont communes au groupe.
 
 Lance **Cultiste** quand tu cherches à faire quelque chose de risqué, d'occulte ou d'étrange.
 
