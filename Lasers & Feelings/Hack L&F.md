@@ -39,18 +39,41 @@ Essayez de remplir vos objectifs sans déclencher trop de catastrophe !
 
 ## Jouer créer vos cultistes
 
-1. Choisissez un trait de caractère : lâche, timide, goinfre, pédant, commère, pingre, envieux.
-2. Choisissez une profession : Comptable, Jardinier, Gardien d'immeuble, 
+1. Choisissez un trait de caractère :
+   1. lâche
+   2. timide
+   3. goinfre
+   4. pédant
+   5. commère
+   6. pingre
+   7. envieux
+2. Choisissez une chose importante pour votre personnage :
+   1. collection de louche
+   2. chihuahua hargneux
+   3. trophé du plus gros choux
+   4. nain de jardin personnalisé
+   5. diplome de Chasseur de phasmes
+   6. Recette de famille du kloug
 
 ## Lancer les dés
 
-**Catastrophe** commence à 0 et **Cultiste** à 6. Ces deux valeurs sont communes au groupe.
+**Catastrophe** commence à 6 et **Cultiste** à 1. Ces deux valeurs sont communes au groupe.
 
 Lance **Cultiste** quand tu cherches à faire quelque chose de risqué, d'occulte ou d'étrange.
 
-- Si tu fais moins que le score de **Cultiste** alors on réussit l'action. La jauge **Cultiste** descend d'un cran puis celle de Catastrophe augmente d'un.
-- Si tu fais moins que **Cultiste** et que **Catastrophe** : vous arrivez de justesse à avoir ce que vous souhaitez, mais une complication apparait. La jauge **Cultiste** descend d'un cran puis celle de Catastrophe augmente d'un.
-- Si tu fais moins de **Catastrophe**, mais plus que **Cultiste** : Ce que tu étais en train de faire rate avec des conséquences désastreuses, soit des imprévus, soit carrément l'inverse de ce que tu voulais faire, bref tu déclenches une **Catastrophe**. La jauge de **Catastrophe** passe à 0 + le nombre catastrophes déjà faites dans la partie. La Jauge de **Cultiste** remonte à 6 - le nombre catastrophes déjà faites dans la partie.
+Si tu fais plus que le score de **Cultiste** et moins que le score de **Catastrophe**
+Tu réussis l'action.
+La jauge **Cultiste** monte d'un cran puis celle de **Catastrophe** descend d'un.
+
+Si tu fais plus que **Cultiste** et que **Catastrophe**
+Tu arrives de justesse à avoir ce que tu souhaites, mais une complication apparait.
+La jauge **Cultiste** monte  d'un cran et celle de **Catastrophe** descend d'un.
+
+Si tu fais plus que **Catastrophe**, mais moins que **Cultiste**.
+Ce que tu étais en train de faire rate avec des conséquences désastreuses, soit des imprévus, soit carrément l'inverse de ce que tu voulais faire, bref tu déclenches une **Catastrophe**.
+La jauge de **Catastrophe** passe à 6 - le nombre **catastrophes** déjà faites dans la partie.
+La Jauge de **Cultiste** passe à 1 + le nombre **catastrophes** déjà faites dans la partie.
+Tire une **catastrophe** sur la table et laisse le meneur expliquer ce qui arrive.
 
 ## Catastrophes
 
@@ -64,3 +87,4 @@ En cas de **catastrophe**, on tire au hasard un effet qui arrive dans la partie
 | 4     | La communication avec toi deviens très compliqué voir impossible (tu n'entends plus que les voix grave, tu rajoutes des mots dans tes phrases etc...) |
 | 5     | Ton action à l'effet inverse de ce que tu souhaitais faire                                                                                            |
 | 6     | Des investigateurs bien intentionnés s'en prenne à quelque chose qui t'est cher, de préférence à la dynamite                                          |
+
