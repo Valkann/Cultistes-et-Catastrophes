@@ -1,71 +1,57 @@
----
-Created : 2022-05-22-Sun
-Alias :
----
+# Cultistes & Catastrophes
 
-# Cultistes & Catastrophes - Hack Lasers & Feelings
-
-- Type : [[Note Source]]
-- MOC : [[MOC jeu de rôle|MOC jdr]]
-- Source :
-- Author :
-- Date :
-- Tags : #SN/
-
-***
-
-## Notes
-
-L'idée de cultiste et catastrophes reste la même : des gens qui sont surtout là pour profiter du thé et du buffet et pour qui le fait d'essayer de faire revenir celui qui bave et qui glougloute n'est vraiment pas le principal centre d'intéret.
-
-Mais voilà, on leur confie des missions et il va falloir qu'ils s'en dépatouillent.
-
-Donc l'idée serait d'avoir une caractéristique Cultiste pour le groupe et une caractéristique catastrophe qui augmente au fur et à mesure.
-
-Plus on va les forcer à utiliser des ressources du culte, des sorts, des créatures, des grimoires, etc. plus ils ont une chance de merdé un truc et de provoquer une catastrophe. Ce qui va amener une complication tirée aléatoirement.
-
-Après, ça serait l'idée de base comme ça, mais il faudra que je creuse encore. L'idée serait d'essayer de créer un décalage entre la situation qui requiert normalement d'utiliser des artifices occultes et les joueurs qui font tout pour l'éviter.
-
-***
-
-## Cultistes & Catastrophes
-
-Vous avez adéherer a ce culte en pensant que c'etait un club de quartier tout à fait correcte, vous avez passez de bons moments à profiter du buffet et des cocktail lors des différentes cérémonies aux quelles vous avez été conviés.
-Mais voila ce culte tente bel et bien de faire venir leur divinité qui bave et qui glougloute sur terre afin d'asservir l'humanité. Et autant dire que ça gâche un peu vos plans jardinage du weekend prochain.
-Vous tentez de faire au mieux ce qu'on vous demande mais cela requiert en général une bonne dose de savoirs occultes, et vous avez fait l'impasse sur la plupart des cours...
+Vous avez adhéré à ce culte en pensant que c'était un club de quartier tout à fait correcte, vous avez passé de bons moments à profiter du buffet et des cocktails lors des différentes cérémonies auxquelles vous avez été conviés.
+Mais voilà, ce culte tente bel et bien de faire venir leur divinité qui bave et qui glougloute sur terre afin d'asservir l'humanité. Et autant dire que ça gâche un peu vos plans jardinage du weekend prochain.
+Vous tentez de faire au mieux ce qu'on vous demande, mais cela requiert en général une bonne dose de savoirs occultes, et vous avez fait l'impasse sur la plupart des cours…
 Essayez de remplir vos objectifs sans déclencher trop de catastrophe !
 
-**Avertissement de contenu** : cultes et sectes, mort, absurde, comédie, humoir noir.
+**Avertissement de contenu** : cultes et sectes, mort, absurde, comédie, humour noir.
 
-## Jouer créer vos cultistes
+## Jouer, créer vos cultistes
 
-1. Choisissez un trait de caractère :
-   1. lâche
-   2. timide
-   3. goinfre
-   4. pédant
-   5. commère
-   6. pingre
-   7. envieux
-2. Choisissez une chose importante pour votre personnage :
-   1. collection de louche
-   2. chihuahua hargneux
-   3. trophé du plus gros choux
-   4. nain de jardin personnalisé
-   5. diplome de Chasseur de phasmes
-   6. Recette de famille du kloug
+Choisissez un trait de caractère :
+
+- lâche
+- timide
+- goinfre
+- pédant
+- commère
+- pingre
+- envieux
+
+Choisissez une chose importante pour votre personnage :
+
+- collection de louche
+- chihuahua hargneux
+- trophée du plus gros chou
+- nain de jardin personnalisé
+- diplôme de Chasseur de phasmes
+- Recette de famille du kloug
+
+Vous possédez : une maison ou un appartement voisin des uns et des autres, une robe de cultiste officiel, le manuel du petit cultiste, un parapluie, un vélo, un cabas, un grand sac de courses contenant des sacs en plastiques plus petit.
+
+Choisissez un objectif à votre personnage :
+
+- Démasquer le voleur du quartier
+- Gagner le concours du plus gros légume/fruit
+- Être invité à la télé pour parler de n'importe quoi
+- Être une star pour une spécificité incongrue, mais inutile
+- Ne jamais payer son adhésion au Culte
+- Gagner à la loterie.
 
 ## Lancer les dés
 
 **Catastrophe** commence à 6 et **Cultiste** à 1. Ces deux valeurs sont communes au groupe.
 
-Lance **Cultiste** quand tu cherches à faire quelque chose de risqué, d'occulte ou d'étrange.
+Lance 1d6 quand tu cherches à faire quelque chose de risqué, d'occulte ou d'étrange.
+Lance +1d si la situation t'avantage, +1d si cela est lié à ton trait de caractère et +1d si quelqu’un est en mesure de vous aider (le meneur a le dernier mot sur le nombre de dés approprié). 
+Fais le jet, compare le(s) dé(s) aux valeurs **Cultiste** et **Catastrophe** en prenant celle qui t'arranages
 
-Si tu fais plus que le score de **Cultiste** et moins que le score de **Catastrophe**
+Si tu fais plus que le score de **Cultiste** et moins que le score de **Catastrophe**.
 Tu réussis l'action.
 La jauge **Cultiste** monte d'un cran puis celle de **Catastrophe** descend d'un.
 
-Si tu fais plus que **Cultiste** et que **Catastrophe**
+Si tu fais plus que **Cultiste** et que **Catastrophe**.
 Tu arrives de justesse à avoir ce que tu souhaites, mais une complication apparait.
 La jauge **Cultiste** monte  d'un cran et celle de **Catastrophe** descend d'un.
 
@@ -87,4 +73,3 @@ En cas de **catastrophe**, on tire au hasard un effet qui arrive dans la partie
 | 4     | La communication avec toi deviens très compliqué voir impossible (tu n'entends plus que les voix grave, tu rajoutes des mots dans tes phrases etc...) |
 | 5     | Ton action à l'effet inverse de ce que tu souhaitais faire                                                                                            |
 | 6     | Des investigateurs bien intentionnés s'en prenne à quelque chose qui t'est cher, de préférence à la dynamite                                          |
-
