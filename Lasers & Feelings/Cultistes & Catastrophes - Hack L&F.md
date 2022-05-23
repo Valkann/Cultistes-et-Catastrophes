@@ -1,4 +1,8 @@
-# Cultistes & Catastrophes
+---
+Created : 2022-05-23-Mon
+---
+# Cultistes & Catastrophes - Hack L&F
+MOC : [[MOC jeu de rôle|MOC jdr]], [[MOC Laser and Feeling]]
 
 Vous avez adhéré à ce culte en pensant que c'était un club de quartier tout à fait correcte, vous avez passé de bons moments à profiter du buffet et des cocktails lors des différentes cérémonies auxquelles vous avez été conviés.
 Mais voilà, ce culte tente bel et bien de faire venir leur divinité qui bave et qui glougloute sur terre afin d'asservir l'humanité. Et autant dire que ça gâche un peu vos plans jardinage du weekend prochain.
