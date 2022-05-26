@@ -1,9 +1,8 @@
 ---
 Created : 2022-05-23-Mon
+MOC : [[MOC jeu de rôle|MOC jdr]], [[MOC Laser and Feeling]]
 ---
 # Cultistes & Catastrophes - Hack L&F
-
-MOC : [[MOC jeu de rôle|MOC jdr]], [[MOC Laser and Feeling]]
 
 Vous avez adhéré à ce culte en pensant que c'était un club de quartier tout à fait correcte, vous avez passé de bons moments à profiter du buffet et des cocktails lors des différentes cérémonies auxquelles vous avez été conviés.
 
