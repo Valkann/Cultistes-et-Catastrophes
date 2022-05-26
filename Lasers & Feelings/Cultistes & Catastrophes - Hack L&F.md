@@ -91,36 +91,42 @@ Afin d’assister quelqu’un pour un jet, déclares comment tu essayes de l'aid
 
 ### Action ! Ce que vous devez faire
 
-1. Contrôler / manipuler
-2. Détruire / tuer
-3. Changer / transformer
-4. Protéger / garder
-5. Étudier / observer
-6. Découvrir / trouver
-7. Récupérer / Prendre / Voler
-8. Cacher / Dissimuler
+| Dé  | Element                     |
+| --- | --------------------------- |
+| 1   | Contrôler / manipuler       |
+| 2   | Détruire / tuer             |
+| 3   | Changer / transformer       |
+| 4   | Protéger / garder           |
+| 5   | Étudier / observer          |
+| 6   | Découvrir / trouver         |
+| 7   | Récupérer / Prendre / Voler |
+| 8   | Cacher / Dissimuler         |
 
 ### Objet ! La cible de la mission
 
-1. Cimetière
-2. Kilt
-3. Kouignamann
-4. Roi
-5. Recette de Cuisine
-6. Statue de Parker Lewis
-7. Comptabilité
-8. Super-5
+| Dé  | Element                |
+| --- | ---------------------- |
+| 1   | Cimetière              |
+| 2   | Kilt                   |
+| 3   | Kouignamann            |
+| 4   | Roi                    |
+| 5   | Recette de Cuisine     |
+| 6   | Statue de Parker Lewis |
+| 7   | Comptabilité           |
+| 8   | Super-5                |
 
 ### Spécificité ! L’élément étrange qui plane sur le thème
 
-1. Malédiction
-2. Destiné
-3. Prophétie
-4. Sommeil
-5. Magie
-6. Interdimensionnel
-7. Venue d’ailleurs
-8. Des Piquants et du gluant
+| Dé  | Element                   |
+| --- | ------------------------- |
+| 1   | Malédiction               |
+| 2   | Destiné                   |
+| 3   | Prophétie                 |
+| 4   | Sommeil                   |
+| 5   | Magie                     |
+| 6   | Interdimensionnel         |
+| 7   | Venue d’ailleurs          |
+| 8   | Des Piquants et du gluant |
 
 ### L'opposition
 
@@ -145,11 +151,10 @@ Afin d’assister quelqu’un pour un jet, déclares comment tu essayes de l'aid
 | 6   | Equipe de sport       | Mutant            | Bibliothèque       |
 | 7   | Grimoire              | Dégoûtant         | Maison de retraite |
 | 8   | DVD                   | Extraterrestre    | Poste de Police    |
-|     |                       |                   |                    |
 
 ### Faiblesse secrète de l'opposition
 
-| Dé  | Objet 1      | Objet 2          | Objet 3       | 
+| Dé  | Objet 1      | Objet 2          | Objet 3       |
 | --- | ------------ | ---------------- | ------------- |
 | 1   | Crème        | Pizza            | Hawaïen       |
 | 2   | Boîte        | Cris             | Enfants       |
@@ -173,8 +178,6 @@ Afin d’assister quelqu’un pour un jet, déclares comment tu essayes de l'aid
 | 10  | La réserve                  | Magasin BIO         |
 | 11  | Le bureau                   | Parking souterrain  |
 | 12  | Le garage                   | L’impasse des lilas |
-
-
 
 ### Rebondissement
 
