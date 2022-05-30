@@ -1,16 +1,17 @@
 ---
 Created : 2022-01-02-Sun
 Alias :
+PROJET: [[PROJET Cultistes et Catastrophe]]
+Type : [[Note Source]]
+MOC : 
+- [[MOC jeu de rôle|MOC jdr]]
+Source :
+Author :
+Date :
+Tags : #SN/
 ---
 
 # Cultistes & catstrophes - Hack Cthulhu Dark
-
-- Type : [[Note Source]]
-- MOC : [[MOC jeu de rôle|MOC jdr]]
-- Source :
-- Author :
-- Date :
-- Tags : #SN/
 
 ***
 
