@@ -3,7 +3,8 @@ Created : 2022-05-23-Mon
 MOC : 
 - [[MOC jeu de rôle|MOC jdr]]
 - [[MOC Laser and Feeling]]
-PROJET: [[PROJET Cultistes et Catastrophe]]
+PROJET: 
+- [[PROJET Cultistes et Catastrophe]]
 ---
 # Cultistes & Catastrophes - Hack L&F
 
@@ -37,7 +38,9 @@ Choisissez une chose importante pour votre personnage :
 - diplôme de Chasseur de phasmes
 - Recette de famille du kloug
 
-Vous possédez : une maison ou un appartement voisin des uns et des autres, une robe de cultiste officiel, le manuel du petit cultiste, un parapluie, un vélo, un cabas, un grand sac de courses contenant des sacs en plastiques plus petit.
+Vous possédez : 
+
+Une maison ou un appartement voisin des uns et des autres, une robe de cultiste officiel, le manuel du petit cultiste, un parapluie, un vélo, un cabas, un grand sac de courses contenant des sacs en plastiques plus petit.
 
 Choisissez un objectif à votre personnage :
 
@@ -48,15 +51,23 @@ Choisissez un objectif à votre personnage :
 - Ne jamais payer son adhésion au Culte
 - Gagner à la loterie.
 
+Comment êtes-vous devenu Cultistes :
+
+Répondez ensemble à cette question. 
+
+Était-ce en rejoignant un club de jardinage ? Ou une nouvelle salle de sport qui a ouvert près de chez vous ? 
+
+Êtes-vous voisin ? Collègue de bureau ? Membre du même club de pétanque ? Habitué de la même Guinguette ?
+
 ## Lancer les dés
 
 **Catastrophe** commence à 6 et **Cultiste** à 1. Ces deux valeurs sont communes au groupe.
 
 Lance 1d6 quand tu cherches à faire quelque chose de risqué, d'occulte ou d'étrange.
 
-Lance +1d si la situation t'avantage, +1d si cela est lié à ton trait de caractère et +1d si quelqu’un est en mesure de vous aider (le meneur à le dernier mot sur le nombre de dés approprié).
+Lance +1d si la situation t'avantage, +1d si cela est lié à ton trait de caractère et +1d si quelqu’un est en mesure de vous aider (le meneur a le dernier mot sur le nombre de dés approprié).
 
-Fais le jet, compare le(s) dé(s) aux valeurs **Cultiste** et **Catastrophe** en le résultat du dé qui t'arranges.
+Fais le jet, compare le(s) dé(s) aux valeurs **Cultiste** et **Catastrophe** en le résultat du dé qui t'arrange.
 
 Si tu fais plus que le score de **Cultiste** et moins que le score de **Catastrophe**.
 Tu réussis l'action.
@@ -64,7 +75,7 @@ La jauge **Cultiste** monte d'un cran puis celle de **Catastrophe** descend d'un
 
 Si tu fais plus que **Cultiste** et que **Catastrophe**.
 Tu arrives de justesse à avoir ce que tu souhaites, mais une complication apparait.
-La jauge **Cultiste** monte  d'un cran et celle de **Catastrophe** descend d'un.
+La jauge **Cultiste** monte d'un cran et celle de **Catastrophe** descend d'un.
 
 Si tu fais plus que **Catastrophe**, mais moins que **Cultiste**.
 Ce que tu étais en train de faire rate avec des conséquences désastreuses, soit des imprévus, soit carrément l'inverse de ce que tu voulais faire, bref, tu déclenches une **Catastrophe**.

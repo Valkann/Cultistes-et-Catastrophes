@@ -6,10 +6,8 @@ Type :
 - [[Note Source]]
 MOC : 
 - [[MOC jeu de rôle|MOC jdr]]
-Catégorie : 
-- [[jeu de rôle]]
-Projet :
-- [[Cultistes & Catastrophes]]
+PROJET: 
+- [[PROJET Cultistes et Catastrophe]]
 Source :
 Author :
 Date :

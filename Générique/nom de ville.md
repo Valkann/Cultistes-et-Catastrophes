@@ -1,16 +1,18 @@
 ---
 Created : 2022-05-22-Sun
 Alias :
+Type : [[Note Source]]
+MOC : 
+- [[MOC jeu de rôle]]
+PROJET: 
+- [[PROJET Cultistes et Catastrophe]]
+Source :
+Author :
+Date :
+Tags : #SN/
 ---
 
-# nom de ville
-
-- Type : [[Note Source]]
-- MOC : 
-- Source :
-- Author :
-- Date :
-- Tags : #SN/
+# Nom de ville
 ***
 
 ## Notes
