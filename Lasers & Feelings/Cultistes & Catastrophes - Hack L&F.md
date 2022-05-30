@@ -1,6 +1,9 @@
 ---
 Created : 2022-05-23-Mon
-MOC : [[MOC jeu de rôle|MOC jdr]], [[MOC Laser and Feeling]]
+MOC : 
+- [[MOC jeu de rôle|MOC jdr]]
+- [[MOC Laser and Feeling]]
+PROJET: [[PROJET Cultistes et Catastrophe]]
 ---
 # Cultistes & Catastrophes - Hack L&F
 
@@ -17,13 +20,13 @@ Essayez de remplir vos objectifs sans déclencher trop de catastrophe !
 
 Choisissez un trait de caractère :
 
-- lâche
-- timide
-- goinfre
-- pédant
-- commère
-- pingre
-- envieux
+- Envieux
+- Goinfre
+- Pingre
+- Pédant
+- Fainéant
+- Colérique
+- Obsédé
 
 Choisissez une chose importante pour votre personnage :
 

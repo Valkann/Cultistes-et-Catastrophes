@@ -1,15 +1,19 @@
 ---
 Created : 2022-01-02-Sun
 Alias :
+Type : [[Note Source]]
+MOC :  
+- [[MOC jeu de rôle|MOC jdr]]
+PROJET: [[PROJET ]]
+Source :
+Author :
+Date :
+
+Tags : #SN/
 ---
 # Cultistes & Catstrophes - Hack PbtA
 
-- Type : [[Note Source]]
-- MOC :  [[MOC jeu de rôle|MOC jdr]]
-- Source :
-- Author :
-- Date :
-- Tags : #SN/
+
 
 ***
 
