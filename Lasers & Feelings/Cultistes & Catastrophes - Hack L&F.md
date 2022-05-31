@@ -19,7 +19,7 @@ Essayez de remplir vos objectifs sans déclencher trop de catastrophe !
 
 ## Jouer, créer vos cultistes
 
-Choisissez un trait de caractère :
+### Choisissez un trait de caractère
 
 - Envieux
 - Goinfre
@@ -29,7 +29,7 @@ Choisissez un trait de caractère :
 - Colérique
 - Obsédé
 
-Choisissez une chose importante pour votre personnage :
+### Choisissez une chose importante pour votre personnage
 
 - collection de louche
 - chihuahua hargneux
@@ -38,11 +38,11 @@ Choisissez une chose importante pour votre personnage :
 - diplôme de Chasseur de phasmes
 - Recette de famille du kloug
 
-Vous possédez : 
+### Vous possédez
 
 Une maison ou un appartement voisin des uns et des autres, une robe de cultiste officiel, le manuel du petit cultiste, un parapluie, un vélo, un cabas, un grand sac de courses contenant des sacs en plastiques plus petit.
 
-Choisissez un objectif à votre personnage :
+### Choisissez un objectif à votre personnage
 
 - Démasquer le voleur du quartier
 - Gagner le concours du plus gros légume/fruit
@@ -51,9 +51,9 @@ Choisissez un objectif à votre personnage :
 - Ne jamais payer son adhésion au Culte
 - Gagner à la loterie.
 
-Comment êtes-vous devenu Cultistes :
+### Comment êtes-vous devenu Cultistes
 
-Répondez ensemble à cette question. 
+Répondez ensemble à ces questions. 
 
 Était-ce en rejoignant un club de jardinage ? Ou une nouvelle salle de sport qui a ouvert près de chez vous ? 
 
@@ -65,9 +65,9 @@ Répondez ensemble à cette question.
 
 Lance 1d6 quand tu cherches à faire quelque chose de risqué, d'occulte ou d'étrange.
 
-Lance +1d si la situation t'avantage, +1d si cela est lié à ton trait de caractère et +1d si quelqu’un est en mesure de vous aider (le meneur a le dernier mot sur le nombre de dés approprié).
+Lance +1d si la situation t'avantage, +1d si cela est lié à ton trait de caractère et +1d si quelqu’un est en mesure de vous aider (le meneur à le dernier mot sur le nombre de dés approprié).
 
-Fais le jet, compare le(s) dé(s) aux valeurs **Cultiste** et **Catastrophe** en le résultat du dé qui t'arrange.
+Fais le jet, compare le(s) dé(s) aux valeurs **Cultiste** et **Catastrophe** et prend le résultat du dé qui t'arrange.
 
 Si tu fais plus que le score de **Cultiste** et moins que le score de **Catastrophe**.
 Tu réussis l'action.
