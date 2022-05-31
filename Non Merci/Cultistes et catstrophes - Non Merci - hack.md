@@ -26,3 +26,8 @@ Mais on peut prendre le truc a l'envers. Ne pas se faire découvrir par les autr
 reste à voir quelles histoires seraient plus marrante a jouer. Des cultistes qui se cachent et qui doivent éviter d'attirer l'attention malgré les choses bizarre qui semble les suivre.
 
 Ou des cultistes par erreur qui vont essayer de donner le change a leur confère en essayant de faire ce qu'on leur demande
+***
+## idées de scénario 
+
+Voir -> [A la poursuite des nains de jardin](A%20la%20poursuite%20des%20nains%20de%20jardin.md)
+
