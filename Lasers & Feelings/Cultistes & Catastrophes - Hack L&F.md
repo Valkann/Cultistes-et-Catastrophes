@@ -53,9 +53,9 @@ Une maison ou un appartement voisin des uns et des autres, une robe de cultiste 
 
 ### Comment êtes-vous devenu Cultistes
 
-Répondez ensemble à ces questions. 
+Répondez ensemble à ces questions.
 
-Était-ce en rejoignant un club de jardinage ? Ou une nouvelle salle de sport qui a ouvert près de chez vous ? 
+Était-ce en rejoignant un club de jardinage ? Ou une nouvelle salle de sport qui a ouvert près de chez vous ?
 
 Êtes-vous voisin ? Collègue de bureau ? Membre du même club de pétanque ? Habitué de la même Guinguette ?
 
@@ -87,14 +87,12 @@ Tire une **catastrophe** sur la table et laisse le meneur expliquer ce qui arriv
 
 En cas de **catastrophe**, on tire au hasard un effet qui arrive dans la partie
 
-| Score | Effet                                                                                                                                                 |
-| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1     | Une chose inoffensive deviens agressive (et prends vie au besoin)                                                                                     |
-| 2     | Quelque chose change de taille de manière impossible à manquer                                                                                        |
-| 3     | Un groupe t'en veux et te poursuit à travers la ville pour une raison à déterminer                                                                    |
-| 4     | La communication avec toi deviens très compliqué voir impossible (tu n'entends plus que les voix grave, tu rajoutes des mots dans tes phrases etc...) |
-| 5     | Ton action à l'effet inverse de ce que tu souhaitais faire                                                                                            |
-| 6     | Des investigateurs bien intentionnés s'en prenne à quelque chose qui t'est cher, de préférence à la dynamite                                          |
+1. Une chose inoffensive deviens agressive (et prends vie au besoin)                                                                                     |
+2. Quelque chose change de taille de manière impossible à manquer                                                                                        |
+3. Un groupe t'en veux et te poursuit à travers la ville pour une raison à déterminer                                                                    |
+4. La communication avec toi deviens très compliqué voir impossible (tu n'entends plus que les voix grave, tu rajoutes des mots dans tes phrases etc...) |
+5. Ton action à l'effet inverse de ce que tu souhaitais faire                                                                                            |
+6. Des investigateurs bien intentionnés s'en prenne à quelque chose qui t'est cher, de préférence à la dynamite                                          |
 
 ### Entraide
 
@@ -104,42 +102,36 @@ Afin d’assister quelqu’un pour un jet, déclares comment tu essayes de l'aid
 
 ### Action ! Ce que vous devez faire
 
-| Dé  | Element                     |
-| --- | --------------------------- |
-| 1   | Contrôler / manipuler       |
-| 2   | Détruire / tuer             |
-| 3   | Changer / transformer       |
-| 4   | Protéger / garder           |
-| 5   | Étudier / observer          |
-| 6   | Découvrir / trouver         |
-| 7   | Récupérer / Prendre / Voler |
-| 8   | Cacher / Dissimuler         |
+1. Contrôler / manipuler
+2. Détruire / tuer
+3. Changer / transformer
+4. Protéger / garder
+5. Étudier / observer
+6. Découvrir / trouver
+7. Récupérer / Prendre / Voler
+8. Cacher / Dissimuler
 
 ### Objet ! La cible de la mission
 
-| Dé  | Element                |
-| --- | ---------------------- |
-| 1   | Cimetière              |
-| 2   | Kilt                   |
-| 3   | Kouignamann            |
-| 4   | Roi                    |
-| 5   | Recette de Cuisine     |
-| 6   | Statue de Parker Lewis |
-| 7   | Comptabilité           |
-| 8   | Super-5                |
+1. Cimetière
+2. Kilt
+3. Kouignamann
+4. Roi
+5. Recette de Cuisine
+6. Statue de Parker Lewis
+7. Comptabilité
+8. Super-5
 
 ### Spécificité ! L’élément étrange qui plane sur le thème
 
-| Dé  | Element                   |
-| --- | ------------------------- |
-| 1   | Malédiction               |
-| 2   | Destiné                   |
-| 3   | Prophétie                 |
-| 4   | Sommeil                   |
-| 5   | Magie                     |
-| 6   | Interdimensionnel         |
-| 7   | Venue d’ailleurs          |
-| 8   | Des Piquants et du gluant |
+1. Malédiction
+2. Destiné
+3. Prophétie
+4. Sommeil
+5. Magie
+6. Interdimensionnel
+7. Venue d’ailleurs
+8. Des Piquants et du gluant
 
 ### L'opposition
 
@@ -194,11 +186,9 @@ Afin d’assister quelqu’un pour un jet, déclares comment tu essayes de l'aid
 
 ### Rebondissement
 
-| Dé  | Rebondissement                                                 |
-| --- | -------------------------------------------------------------- |
-| 1   | Service à rendre                                               |
-| 2   | Passage ou Gardien                                             |
-| 3   | Challenge d'interprétation du personnage ou énigme             |
-| 4   | Piège, surprise, événement inattendu ou course après la montre |
-| 5   | Antagoniste ou course-poursuite                                |
-| 6   | Récompense, trésor, révélation ou retournement de situation    |
+1. Service à rendre
+2. Passage ou Gardien
+3. Challenge d'interprétation du personnage ou énigme
+4. Piège, surprise, événement inattendu ou course après la montre
+5. Antagoniste ou course-poursuite
+6. Récompense, trésor, révélation ou retournement de situation

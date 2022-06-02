@@ -15,10 +15,10 @@ Tags : #SN/
 
 # Cultistes et catstrophes - Non Merci - hack
 
-
 ***
 
 ## Notes
+
 j'avais déjà imaginé remplacer normalité par couverture pour avoir des cultistes qui doivent éviter de faire des bourdes pour ne pas se faire démasquer.
 
 Mais on peut prendre le truc a l'envers. Ne pas se faire découvrir par les autres "vrais" cultistes comme un tiré au flanc
@@ -27,7 +27,7 @@ reste à voir quelles histoires seraient plus marrante a jouer. Des cultistes qu
 
 Ou des cultistes par erreur qui vont essayer de donner le change a leur confère en essayant de faire ce qu'on leur demande
 ***
-## idées de scénario 
+
+## idées de scénario
 
 Voir -> [A la poursuite des nains de jardin](A%20la%20poursuite%20des%20nains%20de%20jardin.md)
-
